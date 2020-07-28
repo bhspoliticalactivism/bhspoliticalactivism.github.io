@@ -16,11 +16,11 @@
 }
 
 body {
-  background-color: #d9ebfc;
+  background-color: #ffe6a6;
 }
 
 h1.title, .hometitle {
-  background-color: #315981;
+  background-color: #ffe373;
   /*text-styling*/
   color: #000000;
   text-align: center;
@@ -70,35 +70,18 @@ td {
   padding: 17px;
 }
 
-#lecture_links {
-  margin: 20px;
-}
-
 .table {
   /*styling for navigation bar*/
-  background-color: #1b3a59;
+  background-color: #ffa6a6;
   height: 50px;
-  border: 5px solid #1b3a59;
+  border: 5px solid #ffa6a6;
   border-collapse: collapse;
   width: 100%;
   margin: 0px;
 }
 
-#emma_info_button {
-  font-size: 30px;
-  margin: 10px;
-  background-color: #000000;
-  color: #FFFFFF;
-  width: 100%;
-}
-
 .data-content {
   font-size: 30px;
-}
-
-.pheonix {
-  border: 5px solid black;
-  margin: 50px;
 }
 
 .info {
@@ -106,11 +89,6 @@ td {
   margin: 10px;
   border: 5px solid #FFFFFF;
   font-size: 33px;
-}
-
-.blackboard-picture {
-  height: 200px;
-  overflow: hidden;
 }
 
 .all_about_us_info {
@@ -122,46 +100,6 @@ td {
   margin: 10px;
   margin-right: 25%;
   margin-left: 25%;
-}
-
-.about_emma {
-  /*text-styling*/
-  color: #ffffff;
-  text-align: center;
-  font-size: 25px;
-  /*margins*/
-  margin: 10px;
-  margin-right: 25%;
-  margin-left: 25%;
-}
-
-.what_is_it_info {
-  /*text-styling*/
-  color: #000000;
-  text-align: left;
-  font-size: 25px;
-  /*margins*/
-  margin: 10px;
-  margin-right: 20%;
-  margin-left: 20%;
-}
-
-.what_is_it_subtitle {
-  /*text-styling*/
-  color: #000000;
-  text-align: left;
-  font-size: 60px;
-  /*margins*/
-  margin: 10px;
-  margin-right: 20%;
-  margin-left: 20%;
-}
-
-.colorfulmath {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin-bottom: 20px;
 }
 
 .col.bg {
@@ -202,22 +140,3 @@ td {
   margin-right: 10%;
   margin-left: 10%;
 }
-
-.w3-display-container {
-  margin-top: 30px;
-}
-
-.emmapic {
-  border-radius: 50%;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
-.the_three_ws {
-  font-size: 25px;
-  text-align: center;
-  color: black;
-}
-
-/*# sourceMappingURL=styles.css.map */
