@@ -29,13 +29,13 @@ $general_color: #ffffff;
 
 body
 {
-  background-color: #d9ebfc;
+  background-color: #fff9a6;
 }
 
 h1.title, .hometitle
 {
   @extend %heading_styling;
-  background-color: #315981;
+  background-color: #f5cb42;
   /*text-styling*/
   color: #000000;
   text-align: center;
@@ -103,9 +103,9 @@ td
 .table
 {
   /*styling for navigation bar*/
-  background-color: #1b3a59;
+  background-color: #ffa6a6;
   height: 50px;
-  border: 5px solid #1b3a59;
+  border: 5px solid #ffa6a6;
   border-collapse: collapse;
   width:100%;
   margin:0px;
